@@ -1,4 +1,5 @@
-﻿# Recommendation-Systems (following DataCamp's article: https://www.datacamp.com/tutorial/recommender-systems-python?utm_adgroupid=157156376311&utm_keyword=&utm_matchtype=&utm_network=s&utm_adpostion=&utm_targetid=dsa-2218886984100&utm_loc_interest_ms=&utm_loc_physical_ms=9073639&utm_content=&gad_source=2)
+# Recommendation-Systems  
+(following DataCamp's article: [Recommender Systems in Python](https://www.datacamp.com/tutorial/recommender-systems-python?utm_adgroupid=157156376311&utm_keyword=&utm_matchtype=&utm_network=s&utm_adpostion=&utm_targetid=dsa-2218886984100&utm_loc_interest_ms=&utm_loc_physical_ms=9073639&utm_content=&gad_source=2))
 
 ## About the Dataset
 
@@ -30,8 +31,8 @@ The Full MovieLens Dataset comprises:
 - 270,000 users
 - 45,000 movies
 
-The full dataset can be accessed from the official GroupLens website: [https://grouplens.org/datasets/movielens/latest](https://grouplens.org/datasets/movielens/latest).
+The full dataset can be accessed from the official [GroupLens website](https://grouplens.org/datasets/movielens/latest).
 
 ## Subset Dataset
 
-The subset dataset used in today's tutorial can be downloaded from here: [https://www.kaggle.com/rounakbanik/the-movies-dataset/data](https://www.kaggle.com/rounakbanik/the-movies-dataset/data).
+The subset dataset used in today's tutorial can be downloaded from [Kaggle](https://www.kaggle.com/rounakbanik/the-movies-dataset/data).
